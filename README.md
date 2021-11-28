@@ -23,30 +23,30 @@ We're looking for creative, out-of-the-box thinkers who love their craft, questi
 # It will really make us smile if you have...
 
 
-<input type="checkbox"/> Strong grasp of software design and engineering principles
+[ ] Strong grasp of software design and engineering principles
 4+ years of industry experience writing high-quality iOS code
 
-<input type="checkbox"/>  An eye for design, experience iteratively refining UI and product decisions based on user feedback
+[ ] An eye for design, experience iteratively refining UI and product decisions based on user feedback
 
-<input type="checkbox"/>  Experience implementing non-trivial, dynamic user interfaces from scratch
+[ ] Experience implementing non-trivial, dynamic user interfaces from scratch
 
-<input type="checkbox"/>  Experience shipping features and apps that can scale to support hundreds of thousands of users
+[ ] Experience shipping features and apps that can scale to support hundreds of thousands of users
 
-<input type="checkbox"/>  Solid Swift expertise, ability to comprehend non-trivial Objective-C code
+[ ] Solid Swift expertise, ability to comprehend non-trivial Objective-C code
 
-<input type="checkbox"/>  Experience with Combine, SwiftUI and other modern iOS technologies
+[ ] Experience with Combine, SwiftUI and other modern iOS technologies
 
-<input type="checkbox"/>  Experience with video capture and/or streaming
+[ ] Experience with video capture and/or streaming
 
-<input type="checkbox"/> Strong knowledge of multi-threading and memory management
+[ ] Strong knowledge of multi-threading and memory management
  
 # ... and we’ll give you extra points for...
 
-<input type="checkbox"/> Experience with AR
+[ ] Experience with AR
 
-<input type="checkbox"/> Experience in Python/Node.js
+[ ] Experience in Python/Node.js
 
-<input type="checkbox"/> Backend/full-stack experience
+[ ] Backend/full-stack experience
 
 If you don’t feel like you satisfy all of the above, but are excited about this opportunity, we highly encourage you to apply!
 
