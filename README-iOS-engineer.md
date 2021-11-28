@@ -24,7 +24,7 @@ We're looking for creative, out-of-the-box thinkers who love their craft, questi
 
 
 [ ] Strong grasp of software design and engineering principles
-4+ years of industry experience writing high-quality iOS code
+[ ] 4+ years of industry experience writing high-quality iOS code
 
 [ ] An eye for design, experience iteratively refining UI and product decisions based on user feedback
 
